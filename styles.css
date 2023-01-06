@@ -1,0 +1,158 @@
+*CSS Reset*/
+*{
+    margin:0;
+    padding:0;
+}
+#b{
+    margin: 0%;
+    height:130vh;
+    
+}
+.b1{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#new{
+    height:14vh;
+    background-color: #292929;
+}
+#leftbox1 {
+    float:left; 
+    color: #FFFFFF;
+    background:#292929;
+    width:60%;
+    height:50vh;
+    
+}
+#middlebox1{
+    float:left; 
+    background-color: #292929;
+    width:20%;
+    height:50vh;   
+}
+#middlebox1 ul{
+    color:#FFFFFF;
+    margin-top: 13vh;
+   background-color: #292929;
+    text-align:center;
+    font-size: 3vh;
+}
+#middlebox1 ul li{
+    list-style: none;
+    padding-bottom: .3vh;
+}
+#rightbox1{
+    float:right;
+    background-color: #292929;
+    width:20%;
+    height:50vh;
+}
+#rightbox1 ul{
+    color: #FFFFFF;
+    margin-top: 13vh;
+    text-align:center;
+    font-size: 3vh;
+}
+#rightbox1 ul li{
+    list-style: none;
+    padding-bottom: .3vh;
+}
+h1{
+    color:green;
+    text-align:center;
+}
+.a{
+    margin-top: 6vh;
+    padding-left: 7vh;
+    
+}
+.b1{
+    width:26vh;
+}
+
+
+
+#leftbox {
+    float:left; 
+    background-color:#111111;
+    width:70%;
+    height:70vh;
+}
+#leftbox p{
+    color: #FFFFFF;
+ margin-top: 4vh;
+ margin-left: 2vh;
+ font-size: 2.2vh;
+ 
+}
+
+/*#middlebox{
+    float:left; 
+    background-color: #111111;
+    width:15%;
+    height:600px;
+}*/
+#rightbox{
+    float:right;
+    background-color: #111111;
+    width:30%;
+    height:70vh;
+}
+#rightbox li{
+    text-align: end;
+    margin-right: 13vh;
+    padding-top: 2vh;
+}
+#rightbox ul li{
+    color: #FFFFFF;
+list-style: none;
+}
+#rightbox {
+    color:#FFFFFF; text-align: end;
+    
+    
+}
+h1{
+    color:green;
+    text-align:center;
+}
+.a{
+    margin-top: 4vh;
+    font-size: 2vh;
+    font-weight: bolder;
+}
+.a1{
+    margin-top: .5vh;
+}
+.a2{
+    height: 30vh;
+    width: 50vh;
+    padding-right: 10vh;
+}
+#leftbox img{
+    margin-top: 2vh;
+ margin-left: 2vh;
+}
+#new{
+  padding-top: 4vh;
+  color:#FFFFFF;
+}
+#new img{
+    padding-left: 1vh;
+    padding-right: 2vh;
+}
+.i{
+    padding-bottom: .5vh;width:60%;
+}
+.e{
+    background-color:#111111;padding-left:3vh;
+    align-items: end;
+}
+.f{
+    padding-left: 2vh;
+}
+.k{
+    font-size: 2vh;
+    color: white;
+}
